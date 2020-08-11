@@ -1,2 +1,2 @@
 # designit
-practice system design 
+system design notes
